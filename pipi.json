@@ -1294,6 +1294,18 @@
     "name": "Clara Miller",
     "photo": "https://i.ibb.co/yBZc3JH1/clark.jpg",
     "department": "Microsoft Certified Technician"
+  },
+  {
+    "code": "AP10001",
+    "name": "kash wright",
+    "photo": "https://i.ibb.co/kYxtT78/cashimage.jpg",
+    "department": "Apple Certified Technician"
+  },
+  {
+    "code": "AP10002",
+    "name": "Clara Miller",
+    "photo": "https://i.ibb.co/example/agent2.jpg",
+    "department": "Apple Certified Technician"
   }
 
 ]

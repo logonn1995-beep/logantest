@@ -1285,15 +1285,15 @@
 },
  {
     "code": "MS10001",
-    "name": "Dummy Agent One",
-    "photo": "https://i.ibb.co/example/agent1.jpg",
-    "department": "Senior Technician"
+    "name": "kash wright",
+    "photo": "https://ibb.co/8F0HwC5",
+    "department": "Microsoft Certified Technician"
   },
   {
     "code": "MS10002",
-    "name": "Dummy Agent Two",
+    "name": "Clara Miller",
     "photo": "https://i.ibb.co/example/agent2.jpg",
-    "department": "Customer Support"
+    "department": "Microsoft Certified Technician"
   }
 
 ]
